@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  background-color: rgb(201, 198, 194);
+  flex-direction: column;
+}
+
+.cart {
+  font-size: 30px;
+  background-color: #daa02c;
+}
+
+.itens {
+  border: 1px solid #daa02c;
+}
+
+.totalitens {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.carttotal {
+  padding: 0;
+}
+
+h1 {
+  color: #daa02c;
+}
